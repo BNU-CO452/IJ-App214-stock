@@ -11,7 +11,9 @@ public class Program
 
     /**
      * This class contains the main method which
-     * is called first.
+     * is called first, it creates a new StockApp
+     * and calls the main run method
+     *
      * @param args No args needed
      */
     public static void main(String[] args)
