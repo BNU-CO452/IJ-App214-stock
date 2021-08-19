@@ -1,6 +1,6 @@
 # Default ignored files
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Datasource local storage ignored files
 /../../../../:\IJ\App214-stock\.idea/dataSources/
 /dataSources.local.xml
@@ -26,3 +26,6 @@
 *.zip
 *.tar.gz
 *.rar
+
+.idea
+*.iml

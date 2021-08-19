@@ -12,7 +12,7 @@ public class Program
     /**
      * This class contains the main method which
      * is called first.
-     * @param args
+     * @param args No args needed
      */
     public static void main(String[] args)
     {
